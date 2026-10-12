@@ -1,0 +1,6 @@
+name = Simple stemmer
+backdrop = 1.x
+type = module
+description = Allows for partial word matching in core searches by breaking a word down into several N sized character strings.
+package = Search
+dependencies[] = search
